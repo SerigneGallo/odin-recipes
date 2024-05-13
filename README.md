@@ -25,7 +25,7 @@ To set up this project locally, follow these steps:
 
 ## Viewing the Project Online
 This project is hosted using GitHub Pages. You can view the deployed project at:
-[Odin Recipes Live Demo](https://github.com/SerigneGallo/odin-recipes.git)
+[Odin Recipes Live Demo](http://127.0.0.1:5500/odin-recipes/odin-recipes.html)
 
 ## How to Contribute
 Contributions to the Odin Recipes project are welcome!
@@ -37,5 +37,5 @@ Contributions to the Odin Recipes project are welcome!
 We are excited to see your creative takes on expanding this project!
 
 ## Acknowledgments
-- Recipe design and concept were provided by The Odin Project.
+- Recipe design and concept were provided by The Odin Project.co
 - Thanks to The Odin Project community for continuous support and inspiration.
